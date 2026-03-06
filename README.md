@@ -89,7 +89,7 @@ Dalam modul ini berisi kegiatan berkesinambungan tentang penggunaan arduino uno 
 <h2>⚙️ Bagian-bagian Pada Arduino</h2>
 <p>Dengan mengambil contoh sebuah papan Arduino tipe USB, bagian-bagiannya dapat dijelaskan sebagai berikut.</p>
 
-<img src="img/Pengenalan Arduino.jpg">
+![Pengenalan Arduino](https://github.com/user-attachments/assets/b8d8aeed-4793-41b2-be9a-198c81d6a4bb)
 
 <p>Berikut penjelasan singkat terkai dengan fungsi bagian pada papan Arduino:</p>
 <ol>
