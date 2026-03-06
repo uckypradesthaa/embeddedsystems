@@ -50,22 +50,23 @@ void loop() {
 ## 🗂️ Modul Praktikum Embedded System dan Mikrokontroler
 Dalam modul ini berisi kegiatan berkesinambungan tentang penggunaan arduino uno sebagai project board untuk mikrokontroler baik secara teori maupun langkah-langkah pengerjaan. Berikut modulnya:
 
-<h3><a href="/Modul 1: Konsep GPIO">Konsep GPIO</a></h3>
+<h3><a href="/Modul 1: Konsep GPIO">Modul 1 : Konsep GPIO</a></h3>
 <p>Praktikum ini membahas penggunaan pin GPIO pada mikrokontroler sebagai input dan output untuk mengendalikan perangkat digital seperti LED dan membaca kondisi tombol, sehingga mahasiswa memahami dasar interaksi perangkat keras dengan program.</p>
 
-<h3><a href="">Komunikasi Serial</a></h3>
+<h3><a href="">Modul 2: Komunikasi Serial</a></h3>
 <p>Praktikum ini memperkenalkan komunikasi serial untuk pertukaran data antara mikrokontroler dan komputer, termasuk pengiriman dan penerimaan data melalui Serial Monitor sebagai sarana monitoring dan debugging sistem.</p>
 
-<h3><a href="">Modul ADC dan DAC</a></h3>
+<h3><a href="">Modul 3: ADC dan DAC</a></h3>
 <p>Praktikum ini mempelajari konversi sinyal analog ke digital (ADC) dan digital ke analog (DAC) pada mikrokontroler untuk membaca sensor analog dan menghasilkan keluaran analog sesuai kebutuhan aplikasi.</p>
 
-<h3><a href="">Interrupt</a></h3>
-<p>Praktikum ini membahas penggunaan interrupt untuk menangani kejadian secara real-time dengan pengenalan Interrupt Service Routine.</p>
-
-<h3><a href="">Real-Time Operating System (RTOS)</a></h3>
+<h3><a href="">Modul 4: Real-Time Operating System (RTOS)</a></h3>
 <p>Praktikum ini memperkenalkan konsep dasar Real-Time Operating System (RTOS), termasuk pengelolaan task dan penjadwalan sederhana, untuk memahami pengembangan aplikasi multitasking pada sistem mikrokontroler.</p>
 
-<p>Praktikum disusun berdasarkan pendekatan pemrograman mulai dari Bare-Metal Programming sampai dengan Real-Time Operating System (RTOS)</p>
+<h3><a href="">Modul (Tambahan): Pengenalan Internet of Things</a></h3>
+<p>Modul ini memperkenalkan dasar-dasar Internet of Things (IoT), yaitu konsep menghubungkan perangkat fisik ke internet untuk mengirim dan menerima data.
+</p>
+
+<p>Praktikum disusun berdasarkan pendekatan pemrograman mulai dari Bare-Metal Programming sampai dengan Real-Time Operating System (RTOS) dengan modul tambahan yaitu Pengenalan Internet of Things</p>
 
 <h2>💡 Laporan Praktikum</h2>
 <p>Setiap praktikum yang telah selesai dilakukan hasilnya dikumpulkan dalam bentuk laporan dan Kode yang digunakan melalui <a href="https://eldiru.unsoed.ac.id/">eLdiru</a> (ruang unggah disediakan dimasing-masing pertemuan) dengan format sebagai berikut:</p>
